@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "code": "^5.2.4",
+    "enoent": "^1.0.0"
+  }
+}
